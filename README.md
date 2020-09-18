@@ -1,5 +1,7 @@
 ### Jenly's GitHub
 
-<marquee behavior=alternate scrollamount=10 scrolldelay=1000>心之所向，素履以往</marquee>
+![Jenly's github stats](https://github-readme-stats.vercel.app/api?username=jenly1314&theme=vue&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenly1314&theme=vue&layout=compact&hide=HTML)
 
 **码云同步：[https://gitee.com/jenly1314](https://gitee.com/jenly1314)**
