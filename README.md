@@ -24,3 +24,6 @@
 │ └─────┴────┴────┴───────────────────────┴────┴────┴────┴────┘ └───┴───┴───┘ └───────┴───┴───┘ │
 └───────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+[![MVVMFrame](https://github-readme-stats.vercel.app/api/pin/?username=jenly1314&repo=MVVMFrame)](https://github.com/jenly1314/MVVMFrame)
+[![ZXingLite](https://github-readme-stats.vercel.app/api/pin/?username=jenly1314&repo=ZXingLite)](https://github.com/jenly1314/ZXingLite)
