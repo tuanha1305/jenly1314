@@ -26,4 +26,4 @@
 ```
 
 [![KingKeyboard](https://github-readme-stats.vercel.app/api/pin/?username=jenly1314&repo=KingKeyboard)](https://github.com/jenly1314/KingKeyboard)
-[![ArcSeekBar](https://github-readme-stats.vercel.app/api/pin/?username=jenly1314&repo=ArcSeekBar)](https://github.com/jenly1314/ArcSeekBar)
+[![MLKit](https://github-readme-stats.vercel.app/api/pin/?username=jenly1314&repo=MLKit)](https://github.com/jenly1314/MLKit)
